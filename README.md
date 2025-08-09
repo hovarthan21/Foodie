@@ -4,6 +4,12 @@ Foodie Recipe Finder is a Streamlit-based web application that helps users disco
 
 ---
 
+
+## Video
+
+[▶ Foodie](https://drive.google.com/file/d/10EzoKsvOcUnVbKh4_xUgTNsmn81ZNhCd/view?usp=sharing)
+
+
 ## Features
 
 - **Ingredient Selection:**  
